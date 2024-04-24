@@ -1,4 +1,4 @@
-#Weather-App
+**Weather-App**
 
 First attempt at a weather app. This assignment is part of The Odin Project curriculum and it introduces working with APIs and JavaScript promises.
 
